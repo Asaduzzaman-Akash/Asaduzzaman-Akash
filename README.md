@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg)
+![MasterHead](https://images.pexels.com/photos/256502/pexels-photo-256502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 <h1 align="center">Hi 👋, I'm Akash.</h1>
 <h3 align="center">Experienced front-end developer with expertise in React. Skilled in building responsive user interfaces and also flexible in taking on full-stack development tasks.</h3>
