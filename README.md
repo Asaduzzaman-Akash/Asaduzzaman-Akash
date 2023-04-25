@@ -1,6 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1562034475-0292da13283a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80)
-)
-
+![MasterHead](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/324079154_1556663084801556_3682018781764102000_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=RxnyjcZ66WAAX96dsrD&_nc_ht=scontent.fdac41-1.fna&oh=00_AfAjhXJJMZYCZtpW5ySd66fGI0DNDb-TV8ZuPXJZYTeTtw&oe=644C1324)
 
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">Experienced front-end developer with expertise in React. Skilled in building responsive user interfaces and also flexible in taking on full-stack development tasks.</h3>
@@ -23,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaduzzaman-akash&show_icons=true&locale=en" alt="asaduzzaman-akash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaduzzaman-akash&" alt="asaduzzaman-akash" /></p>
+
