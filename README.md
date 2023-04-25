@@ -1,4 +1,4 @@
-![MasterHead](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/324079154_1556663084801556_3682018781764102000_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=RxnyjcZ66WAAX96dsrD&_nc_ht=scontent.fdac41-1.fna&oh=00_AfAjhXJJMZYCZtpW5ySd66fGI0DNDb-TV8ZuPXJZYTeTtw&oe=644C1324)
+![MasterHead](https://imgs.search.brave.com/mT2PNe561Ko7Wdl56YqTzhYTTkrwe1-n_EO_1U10WPE/rs:fit:1200:840:1/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1ha2V1c2Vv/ZmltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEx/L2Rhcmstd2FsbHBh/cGVycy5qcGc)
 
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">Experienced front-end developer with expertise in React. Skilled in building responsive user interfaces and also flexible in taking on full-stack development tasks.</h3>
