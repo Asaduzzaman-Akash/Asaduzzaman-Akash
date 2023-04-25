@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate Front-End developer.</h3>
+<h3 align="center">Experienced front-end developer with expertise in React. Skilled in building responsive user interfaces and also flexible in taking on full-stack development tasks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaduzzaman-akash&label=Profile%20views&color=0e75b6&style=flat" alt="asaduzzaman-akash" /> </p>
 
