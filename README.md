@@ -1,4 +1,4 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/05/69/11/17/1000_F_569111773_vf4bnJAItFo7tZ0ce2pQ0txYQnQteTHH.jpg)
+![MasterHead]([https://as2.ftcdn.net/v2/jpg/05/69/11/17/1000_F_569111773_vf4bnJAItFo7tZ0ce2pQ0txYQnQteTHH.jpg](https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg))
 
 
 <h1 align="center">Hi 👋, I'm Akash</h1>
