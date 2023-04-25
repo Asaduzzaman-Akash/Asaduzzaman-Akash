@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701863015.jpg)
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg)
 
 <h1 align="center">Hi 👋, I'm Akash.</h1>
 <h3 align="center">Experienced front-end developer with expertise in React. Skilled in building responsive user interfaces and also flexible in taking on full-stack development tasks.</h3>
