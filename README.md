@@ -1,6 +1,3 @@
-![MasterHead](https://github.com/Asaduzzaman-Akash/Asaduzzaman-Akash/blob/main/Untitled%20design%20(9).png?raw=true)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaduzzaman-akash&label=Profile%20views&color=0e75b6&style=flat" alt="asaduzzaman-akash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asaduzzaman-akash" alt="asaduzzaman-akash" /></a> </p>
